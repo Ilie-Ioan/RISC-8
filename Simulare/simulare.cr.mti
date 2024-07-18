@@ -1,0 +1,64 @@
+C:/Users/juust/Documents/Licenta/risc_processor_tb.v {1 {vlog -work work -stats=none C:/Users/juust/Documents/Licenta/risc_processor_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module risc_processor_tb
+
+Top level modules:
+	risc_processor_tb
+
+} {} {}} C:/Users/juust/Documents/Licenta/memorie_instructiuni.v {1 {vlog -work work -stats=none C:/Users/juust/Documents/Licenta/memorie_instructiuni.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module memorie_instructiuni
+
+Top level modules:
+	memorie_instructiuni
+
+} {} {}} C:/Users/juust/Documents/Licenta/fisier_registre.v {1 {vlog -work work -stats=none C:/Users/juust/Documents/Licenta/fisier_registre.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fisier_registre
+
+Top level modules:
+	fisier_registre
+
+} {} {}} C:/Users/juust/Documents/Licenta/alu.v {1 {vlog -work work -stats=none C:/Users/juust/Documents/Licenta/alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/juust/Documents/Licenta/unitate_de_control.v {1 {vlog -work work -stats=none C:/Users/juust/Documents/Licenta/unitate_de_control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module unitate_de_control
+
+Top level modules:
+	unitate_de_control
+
+} {} {}} C:/Users/juust/Documents/Licenta/contor_program.v {1 {vlog -work work -stats=none C:/Users/juust/Documents/Licenta/contor_program.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module contor_program
+
+Top level modules:
+	contor_program
+
+} {} {}} C:/Users/juust/Documents/Licenta/decodificator_instructiuni.v {1 {vlog -work work -stats=none C:/Users/juust/Documents/Licenta/decodificator_instructiuni.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decodificator_instructiuni
+
+Top level modules:
+	decodificator_instructiuni
+
+} {} {}} C:/Users/juust/Documents/Licenta/pc_urmator.v {1 {vlog -work work -stats=none C:/Users/juust/Documents/Licenta/pc_urmator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pc_urmator
+
+Top level modules:
+	pc_urmator
+
+} {} {}} C:/Users/juust/Documents/Licenta/risc_processor.v {1 {vlog -work work -stats=none C:/Users/juust/Documents/Licenta/risc_processor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module risc_processor
+
+Top level modules:
+	risc_processor
+
+} {} {}}

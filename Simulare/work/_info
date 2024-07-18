@@ -1,0 +1,218 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+valu
+!s110 1720432339
+!i10b 1
+!s100 R9heIIS0zWe?kUMW6RcaW3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ic5RkfCahG7d8=XTmSk5H30
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/juust/Documents/Licenta/Simulare
+w1719670174
+8C:/Users/juust/Documents/Licenta/alu.v
+FC:/Users/juust/Documents/Licenta/alu.v
+!i122 390
+L0 1 21
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1720432339.000000
+!s107 C:/Users/juust/Documents/Licenta/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juust/Documents/Licenta/alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcontor_program
+Z7 !s110 1720432340
+!i10b 1
+!s100 l=kGMJUQhOoY]O30HfG2O3
+R0
+IYZYiV;lPK1TGT0g@n[XcF3
+R1
+R2
+w1719667553
+8C:/Users/juust/Documents/Licenta/contor_program.v
+FC:/Users/juust/Documents/Licenta/contor_program.v
+!i122 391
+L0 1 13
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/juust/Documents/Licenta/contor_program.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juust/Documents/Licenta/contor_program.v|
+!i113 1
+R5
+R6
+vdecodificator_instructiuni
+R7
+!i10b 1
+!s100 PX;iJ:Gz_:`WYOm_LFfJ62
+R0
+IJXBQ:U_3E=7BJZ9Dkj4_@2
+R1
+R2
+w1720425198
+8C:/Users/juust/Documents/Licenta/decodificator_instructiuni.v
+FC:/Users/juust/Documents/Licenta/decodificator_instructiuni.v
+!i122 392
+L0 1 18
+R3
+r1
+!s85 0
+31
+Z8 !s108 1720432340.000000
+!s107 C:/Users/juust/Documents/Licenta/decodificator_instructiuni.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juust/Documents/Licenta/decodificator_instructiuni.v|
+!i113 1
+R5
+R6
+vfisier_registre
+R7
+!i10b 1
+!s100 9`2T`FAzEIVeXN4QDBFM;0
+R0
+I]ek6Sk^AiHQdh;UCZ:<Ql3
+R1
+R2
+w1720432334
+8C:/Users/juust/Documents/Licenta/fisier_registre.v
+FC:/Users/juust/Documents/Licenta/fisier_registre.v
+!i122 393
+L0 1 44
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/juust/Documents/Licenta/fisier_registre.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juust/Documents/Licenta/fisier_registre.v|
+!i113 1
+R5
+R6
+vmemorie_instructiuni
+R7
+!i10b 1
+!s100 gMc_=[^MJe6kGJhNReikC2
+R0
+IEC8A@8X2@lV:i>ajLjoN43
+R1
+R2
+w1720432322
+8C:/Users/juust/Documents/Licenta/memorie_instructiuni.v
+FC:/Users/juust/Documents/Licenta/memorie_instructiuni.v
+!i122 394
+Z9 L0 1 19
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/juust/Documents/Licenta/memorie_instructiuni.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juust/Documents/Licenta/memorie_instructiuni.v|
+!i113 1
+R5
+R6
+vpc_urmator
+R7
+!i10b 1
+!s100 :2:XG`_00?7kGENMIVMUI0
+R0
+I;S@YW6Zn;kQZ==8MZFfZ=0
+R1
+R2
+w1720425189
+8C:/Users/juust/Documents/Licenta/pc_urmator.v
+FC:/Users/juust/Documents/Licenta/pc_urmator.v
+!i122 395
+R9
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/juust/Documents/Licenta/pc_urmator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juust/Documents/Licenta/pc_urmator.v|
+!i113 1
+R5
+R6
+vrisc_processor
+R7
+!i10b 1
+!s100 >GID<aXE=Pa7JE_]7XSQo1
+R0
+IfAHi_Q>QcO24cCDDjZW3m3
+R1
+R2
+w1720425180
+8C:/Users/juust/Documents/Licenta/risc_processor.v
+FC:/Users/juust/Documents/Licenta/risc_processor.v
+!i122 396
+L0 1 93
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/juust/Documents/Licenta/risc_processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juust/Documents/Licenta/risc_processor.v|
+!i113 1
+R5
+R6
+vrisc_processor_tb
+Z10 !s110 1720432341
+!i10b 1
+!s100 _0?A00QDjZ7:AY?CJm:`z2
+R0
+IUhTQ2aJ]461d_?Bj>e6S73
+R1
+R2
+w1720426741
+8C:/Users/juust/Documents/Licenta/risc_processor_tb.v
+FC:/Users/juust/Documents/Licenta/risc_processor_tb.v
+!i122 397
+L0 3 91
+R3
+r1
+!s85 0
+31
+Z11 !s108 1720432341.000000
+!s107 C:/Users/juust/Documents/Licenta/risc_processor_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juust/Documents/Licenta/risc_processor_tb.v|
+!i113 1
+R5
+R6
+vunitate_de_control
+R10
+!i10b 1
+!s100 0n645M>Nd3A1T]<`WCE=n0
+R0
+I6hmF6JzHcLWHU[K:eBK:T3
+R1
+R2
+w1720425186
+8C:/Users/juust/Documents/Licenta/unitate_de_control.v
+FC:/Users/juust/Documents/Licenta/unitate_de_control.v
+!i122 398
+L0 1 89
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/juust/Documents/Licenta/unitate_de_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/juust/Documents/Licenta/unitate_de_control.v|
+!i113 1
+R5
+R6
